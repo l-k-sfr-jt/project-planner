@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T18:57:33.744Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="tqUsdDieZMYYoyNcBdqf" version="14.0.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-04-18T18:58:13.607Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="wPeKgAhJbh2u-GCk3Ke5" version="14.0.1" type="github" pages="7">
   <diagram name="Login/Registration" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j7PqImL2H_x05aSN5FBk" name="Project View">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="900" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="FEMmgsu89Q5bj8RA53u_-0" />
         <mxCell id="FEMmgsu89Q5bj8RA53u_-1" parent="FEMmgsu89Q5bj8RA53u_-0" />
